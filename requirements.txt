@@ -1,0 +1,13 @@
+Flask
+BeautifulSoup4
+requests
+pystyle
+fbchat
+sqlite3
+importlib
+sys
+time
+platform
+threading
+json
+os
