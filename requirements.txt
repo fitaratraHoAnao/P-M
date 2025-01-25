@@ -1,5 +1,5 @@
-Flask
-pystyle
-fbchat
-requests
-sqlite3
+Flask==2.0.2
+pystyle==1.0
+fbchat==1.11.0
+requests==2.25.1
+
